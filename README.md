@@ -15,8 +15,8 @@
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - 🌐 **Platforms**: Web, Mobile, CLI
-- ⚙️ **Top Tech Stacks**: Java, Python, Javascript, MongoDB, Django
-- 🛠️ **Skills**: Full Stack Development, Research & Development, Cybersecurity
+- ⚙️ **Top Tech Stacks**: Java, Python, C
+- 🛠️ **Skills**: Research & Development, Cybersecurity
 - 🌏 **Languages**: Tamil, English
 - 💻 **Hobbies**: Programming, Psychology Books, Exercise
 
@@ -73,7 +73,6 @@
 <!-- Socials -->
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/SubashSK777) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/28052866/subash-kumar) 
 
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
