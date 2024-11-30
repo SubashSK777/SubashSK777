@@ -73,6 +73,7 @@
 <!-- Socials -->
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/SubashSK777) 
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white&style=for-the-badge)](https://x.com/SubashRKumar)
 
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
