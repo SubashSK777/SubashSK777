@@ -15,8 +15,8 @@
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - 🌐 **Platforms**: Web, Mobile, CLI
-- ⚙️ **Top Tech Stacks**: Java, Python, C
-- 🛠️ **Skills**: Research & Development, Cybersecurity
+- ⚙️ **Top Tech Stacks**: Java, Python, SQL
+- 🛠️ **Skills**: Research & Development, Data Engineering, Cybersecurity
 - 🌏 **Languages**: Tamil, English
 - 💻 **Hobbies**: Programming, Psychology Books, Exercise
 
@@ -26,15 +26,15 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubashSK777&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashSK777&layout=compact&hide_border=true&theme=chartreuse-dark&v=20241203123611" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashSK777&layout=compact&hide_border=true&theme=chartreuse-dark&v=20241203113652" alt="Top Langs" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=SubashSK777&theme=chartreuse-dark&hide_border=true&show_icons=true&v=20241203123611" alt="Subash's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubashSK777&theme=chartreuse-dark&hide_border=true&show_icons=true&v=20241203113652" alt="Subash's GitHub stats" />
 
 </div>
 
 
 <!-- Contribution Graph -->
-![Subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubashSK777&theme=github-compact&v=20241203123611)
+![Subash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SubashSK777&theme=github-compact&v=20241203113652)
 
 ![snake gif](https://github.com/SubashSK777/SubashSK777/blob/output/github-snake-dark.svg)
 
@@ -45,21 +45,22 @@
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ## Libraries & Frameworks
+![pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=%23white) 
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-%23000000.svg?style=for-the-badge&logo=mediapipe&logoColor=%23white) 
 ![CrewAI](https://img.shields.io/badge/CrewAI-%2300A1F1.svg?style=for-the-badge&logo=crewai&logoColor=%23white)
 
 ### Tools & Services
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-7D3C9B?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 
 <!-- GitHub Trophies -->
