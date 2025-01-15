@@ -24,7 +24,7 @@
 
 <div align="center" style="display: flex; justify-content: space-around;">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SubashSK777&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+  [![GitHub Streak](https://github-readme-streak-stats-wine-sigma.vercel.app?user=SubashSK777&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashSK777&layout=compact&hide_border=true&theme=chartreuse-dark&v=20250115151718" alt="Top Langs" />
 
