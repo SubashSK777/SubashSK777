@@ -64,7 +64,7 @@
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SubashSK777&theme=monokai&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SubashSK777&theme=monokai&row=2&column=6&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Organizations&margin-w=10&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Holopin Badges -->
 ## 📛 Holopin Badges
