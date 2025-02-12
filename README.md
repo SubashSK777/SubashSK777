@@ -43,6 +43,11 @@
 ## 💻 Tech Stack
 
 ## Languages
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="java" width="70" height="40" style="margin-right: 50px;"/> 
+</a>
+
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
          alt="python" width="70" height="40" style="margin-right: 50px;"/> 
@@ -51,11 +56,6 @@
 <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
          alt="sql" width="70" height="40" style="margin-right: 50px;"/> 
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-         alt="java" width="70" height="40" style="margin-right: 50px;"/> 
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
