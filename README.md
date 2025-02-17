@@ -14,8 +14,7 @@
 
 - 🏫 **University**: VSB College of Engineering Technical Campus (Anna University Affiliate)
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
-- 🌐 **Platforms**: Web, Mobile, CLI
-- ⚙️ **Top Tech Stacks**: Java, Python, SQL
+- ⚙️ **Top Tech Stacks**: Python, SQL, Java
 - 🛠️ **Skills**: Research & Development, Data Engineering, Cybersecurity
 - 🌏 **Languages**: Tamil, English
 - 💻 **Hobbies**: Programming, Psychology Books, Exercise
