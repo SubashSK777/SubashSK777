@@ -1,7 +1,7 @@
 ![Subash's Banner](https://github.com/SubashSK777/SubashSK777/blob/main/Assets/Gitanner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=46&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Just+Playing;Self+Taught+Full+Stack+Developer;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=36&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Brains+Behind+the+Bots;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!" alt="Typing SVG"/>
 </p>
 
 
