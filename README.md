@@ -16,7 +16,6 @@
 - 🎓 **Degree**: B.Tech in Artificial Intelligence and Data Science
 - ⚙️ **Top Tech Stacks**: Python, SQL, Java
 - 🛠️ **Skills**: Research & Development, Data Engineering
-- 🌏 **Languages**: Tamil, English
 - 💻 **Hobbies**: Programming, Psychology Books, Exercise
 
 ## 📊 GitHub Stats
