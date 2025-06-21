@@ -88,9 +88,10 @@
 <!-- Socials -->
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/SubashSK777) 
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white&style=for-the-badge)](https://x.com/SubashRKumar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/SubashSK)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white&style=for-the-badge)](https://www.hackerrank.com/profile/subashsk11831)
- [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/SubashSK777)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/SubashSK777)
+
 
 <!-- Random Dev Quote -->
 ### ✍️ Random Dev Quote
