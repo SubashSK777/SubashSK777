@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Josefin+Sans&weight=700&size=36&pause=1000&color=DC143C&vCenter=true&width=800&lines=AI+%26+Data+Science:+Brains+Behind+the+Bots;Researcher:+Always+Asking+Why;Creativity:+My+Secret+Weapon;Rajini+Fan:+Living+in+Style!" alt="Typing SVG"/>
 </p>
 
-
 ## Hi, I'm Subash Kumar K 👋
 
 <p align="center">
