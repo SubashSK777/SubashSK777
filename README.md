@@ -40,41 +40,44 @@
 ## 💻 Tech Stack
 
 ## Languages
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-         alt="java" width="70" height="40" style="margin-right: 50px;"/> 
-</a>
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
          alt="python" width="70" height="40" style="margin-right: 50px;"/> 
 </a>
 
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" 
-         alt="sql" width="70" height="40" style="margin-right: 50px;"/> 
+         alt="mysql" width="70" height="40" style="margin-right: 50px;"/> 
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
-         alt="javascript" width="70" height="40" style="margin-right: 50px;"/> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="java" width="70" height="40" style="margin-right: 50px;"/> 
 </a>
 
-## Libraries & Frameworks
-![pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=%23white) 
-![Mediapipe](https://img.shields.io/badge/Mediapipe-%23000000.svg?style=for-the-badge&logo=mediapipe&logoColor=%23white) 
-![CrewAI](https://img.shields.io/badge/CrewAI-%2300A1F1.svg?style=for-the-badge&logo=crewai&logoColor=%23white)
+## Frameworks & Protocols
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-00A1F1?style=for-the-badge&logo=crewai&logoColor=white)
+![Raft](https://img.shields.io/badge/Raft-1E90FF?style=for-the-badge)
+![Paxos](https://img.shields.io/badge/Paxos-6A5ACD?style=for-the-badge)
 
-### Tools & Services
+## Libraries & Models
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![LLaMA2](https://img.shields.io/badge/LLaMA2-003366?style=for-the-badge)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-7D3C9B?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge&logo=nmap&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+## Databases & Technologies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+
+## LLM Tools
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+## Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-1A73E8?style=for-the-badge&logo=apache-superset&logoColor=white)
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
