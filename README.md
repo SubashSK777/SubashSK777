@@ -79,7 +79,7 @@
 
 <!-- GitHub Trophies -->
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy-subashsk777.vercel.app/?username=SubashSK777&theme=monokai&row=2&column=6&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Organizations&margin-w=10&margin-h=5)](https://github.com/SubashSK777/github-profile-trophy)
+[![trophy](https://github-profile-trophy-five-delta.vercel.app/?username=SubashSK777&theme=monokai&row=2&column=6&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Organizations&margin-w=10&margin-h=5)](https://github.com/SubashSK777/github-profile-trophy)
 
 <!-- Holopin Badges -->
 ## 📛 Holopin Badges
