@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 10,22 * * *"  # Runs at 10:00 and 22:00 UTC (2 times a day)
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          TIMESTAMP=$(date +"%Y%m%d%H%M%S")
+          
+          # Replace timestamps in ALL markdown tags including streak stats
+          sed -i "s/v=[0-9]*/v=$TIMESTAMP/g" README.md
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "SubashSK777"
+          git config --global user.email "subashsk11831@gmail.com"
+          git add README.md
+          
+          # Randomize contributions between 1-10 as requested
+          ITERATIONS=$(( ( RANDOM % 10 )  + 1 ))
+          for i in $(seq 1 $ITERATIONS); do
+            echo "$(date): Activity log entry $i" >> activity.log
+            git add activity.log
+            git commit --allow-empty -m "Update profile metrics (automatic sweep $i)"
+          done
+          git push
