@@ -22,7 +22,7 @@
 
 <div align="center" style="display: flex; justify-content: space-around;">
 
-  [![GitHub Streak](https://github-readme-streak-stats-wine-sigma.vercel.app?user=SubashSK777&theme=cobalt&hide_border=true&v=20260322222049)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=SubashSK777&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubashSK777&layout=compact&hide_border=true&theme=chartreuse-dark&v=20260322222049" alt="Top Langs" />
 
@@ -76,10 +76,6 @@
 ## Visualization & BI Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache%20Superset-1A73E8?style=for-the-badge&logo=apache-superset&logoColor=white)
-
-<!-- GitHub Trophies -->
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=SubashSK777&theme=monokai&row=2&column=6&no-bg=true&title=Stars,Followers,Repositories,Commits,PullRequest,Organizations&margin-w=10&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Holopin Badges -->
 ## 📛 Holopin Badges
