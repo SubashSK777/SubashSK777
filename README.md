@@ -7,7 +7,11 @@
 ## Hi, I'm Subash Kumar K 👋
 
 <p align="center">
-    <img src="https://img.shields.io/badge/AI%2fML_Developer_@_GenPlus_Innovations_Pvt_Ltd-crimson?style=for-the-badge&logoColor=white" alt="AI/ML Developer @ GenPlus Innovations Pvt Ltd" width="3000" height="60"/>
+    <img 
+        src="https://img.shields.io/badge/AI%2fML_Developer_@_GenPlus_Innovations_Pvt_Ltd-crimson?style=for-the-badge&logoColor=white"
+        alt="AI/ML Developer @ GenPlus Innovations Pvt Ltd"
+        style="width: 100%; height: auto; max-width: 900px;"
+    />
 </p>
 
 
