@@ -60,14 +60,12 @@
 ## Frameworks & Protocols
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-00A1F1?style=for-the-badge&logo=crewai&logoColor=white)
-![Raft](https://img.shields.io/badge/Raft-1E90FF?style=for-the-badge)
-![Paxos](https://img.shields.io/badge/Paxos-6A5ACD?style=for-the-badge)
+
 
 ## Libraries & Models
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLaMA2](https://img.shields.io/badge/LLaMA2-003366?style=for-the-badge)
 
 ## Databases & Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
